@@ -48,7 +48,7 @@ Esse projeto me proporcionou uma visão prática sobre o desenvolvimento web com
 - 📍 Águas Lindas de Goiás – GO  
 - ✉️ **joaolopesxl@hotmail.com**  
 - 💻 **[github.com/joao84ads](https://github.com/joao84ads)**  
-
+- 🔗 **[linkedin.com/in/joaolopesads](https://www.linkedin.com/in/joaolopesads/)**  
 ---
 
 ⭐ *Obrigado por visitar meu perfil! Fique à vontade para explorar meus projetos e acompanhar minha evolução como desenvolvedor.*
